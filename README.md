@@ -1,16 +1,13 @@
-### Hi there 👋
+## Introduction
+컴퓨터공학을 전공중인 학생입니다.
 
-<!--
-**thstmddn321/thstmddn321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Career
+- 영남대학교 컴퓨터공학전공 재학중
 
-Here are some ideas to get you started:
+## Link
+- E-mail - unknown
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi!
+Have a good day!
+coding baby~~
+
